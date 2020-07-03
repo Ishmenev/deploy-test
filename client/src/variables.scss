@@ -1,0 +1,75 @@
+@import './fonts.scss';
+
+:global(.slick-prev:before) {
+  font-size: 0;
+}
+
+:global(.slick-next:before) {
+  font-size: 0;
+}
+
+:global(.slick-dots li) {
+  margin: 0 10px;
+  height: 31px;
+  width: 31px;
+
+
+  button {
+    height: 31px;
+    width: 31px;
+
+
+    &:before {
+      font-size: 0;
+    }
+
+    &:hover, &:focus {
+      outline: none;
+
+      &:after {
+        opacity: 0.6;
+      }
+    }    
+
+
+    &:after {
+      position: absolute;
+      top: 0;
+      left: 0;
+      content: "";
+      width: 31px;
+      height: 31px;
+      border-radius: 20px;
+      background-color: #b1f879;
+      opacity: 0.3;
+    }
+  }
+}
+
+:global(.slick-dots li.slick-active button:after) {
+  height: 31px;
+  width: 31px;
+  background-color: #b1f879;
+  opacity: 1;
+}
+
+$game-width: 1380px;
+$desktop-width: 1040px;
+$tablet-width: 768px;
+$mobile-width: 320px;
+$brown: #343533;
+$green: #b1f879;
+$white: #FFFFFF;
+$black: #000000;
+$yellow: #FCD97B;
+$yellow-hover: #fcd97bb3;
+$gold: #E4C372;
+$grey: #444444;
+$light-grey: #87837B;
+$back: #20232A;
+$error: #fa7057;
+$vc: #4A76A8;
+$google: #fa573a;
+$fb: #4267B2;
+$baseFont: "Segoe UI", "Gill Sans", sans-serif;
+$neucha: "Neucha", "Arial", sans-serif;

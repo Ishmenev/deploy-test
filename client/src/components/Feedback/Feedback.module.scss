@@ -1,0 +1,71 @@
+@import '../../variables.scss';
+
+.feedback {
+  background-image: url("./img/back-opacity.png");
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  padding-top: 90px;
+  padding-bottom: 80px;
+  padding-left: 75px;
+  padding-right: 75px;
+  text-align: center;
+
+  @media (max-width: 991px) {
+    padding: 0;
+    padding-top: 45px;
+    padding-bottom: 65px;
+  }
+
+  @media (max-width: 768px) {
+    padding-top: 25px;
+    padding-bottom: 55px;
+  }
+}
+
+.feedback__name {
+  font-size: 60px;
+  line-height: 66px;
+  margin: 0;
+  padding: 0;
+  text-transform: none;
+  color: $yellow;
+
+  @media (max-width: 768px) {
+    font-size: 35px;
+    line-height: 39px;
+    padding-bottom: 30px;
+  }
+}
+
+
+.feedback__button {
+  display: inline-block;
+  color: $brown;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding-top: 14px;
+  padding-bottom: 12px;
+  padding-left: 83px;
+  padding-right: 35px;
+  margin-top: 30px;
+  background-color: $green;
+  border: none;
+  position: relative;
+
+  &:hover {
+    color: rgba(52, 53, 51, 0.8);
+  }
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: 28px;
+    top: 14px;
+    display: block;
+    width: 36px;
+    height: 25px;
+    background-image: url("./img/send-icon.svg");
+    background-repeat: no-repeat;
+  }
+}

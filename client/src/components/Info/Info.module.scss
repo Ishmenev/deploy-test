@@ -1,0 +1,161 @@
+@import "../../variables.scss";
+
+.info {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    position: relative;
+    padding-top: 128px;
+  
+    &::after {
+      content: "";
+      display: block;
+      position: absolute;
+      bottom: -12px;
+      right: 0;
+      width: 250px;
+      height: 240px;
+      background-image: url("./img/content-decor.svg");
+      background-position: 0 100%;
+      background-repeat: no-repeat;
+
+      @media (max-width: 992px) {
+        display: none;
+      }
+    }
+
+    @media (max-width: 991px) {
+      padding-top: 60px;
+    }
+  }
+  
+  .info__title {
+    display: flex;
+  }
+  
+  .info__name {
+    font-size: 30px;
+    line-height: 33px;
+    margin-right: auto;
+    text-transform: none;
+    color: $yellow;
+  }
+  
+  .info__description {
+    margin: 0;
+    padding-top: 17px;
+    padding-bottom: 30px;
+    padding-right: 15px;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .info__link {
+    display: inline-block;
+    color: $brown;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-top: 14px;
+    padding-bottom: 12px;
+    padding-left: 45px;
+    padding-right: 45px;
+    background-color: $green;
+    border: none;
+    position: relative;
+  
+    &:hover {
+      text-decoration: none;
+      color: rgba(52, 53, 51, 0.8);
+    }
+  }
+  
+  
+  .info__wrapper {
+    display: flex;
+    height: 100%;
+    padding-bottom: 115px;
+    padding-top: 15px;
+
+    @media (max-width: 768px) {
+      padding-bottom: 60px;
+      padding-top: 60px;
+      align-items: flex-start;
+    }
+  }
+  
+  .info__wrapper_narrative {
+    padding-top: 65px;
+    padding-right: 50px;
+    position: relative;
+  
+    &::before {
+      content: "";
+      position: absolute;
+      right: 75px;
+      top: 15px;
+      display: block;
+      width: 96px;
+      height: 142px;
+      background-image: url("./img/ninja.svg");
+      background-repeat: no-repeat;
+
+      @media (max-width: 768px) {
+        display: none;
+      }
+    }
+  
+  }
+  
+  .info__image_narrative {
+    display: block;
+    margin-left: auto;
+    width: 304px;
+    height: 154px;
+    background-image: url('./img/level-choice.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+  
+    @media (max-width: 991px) {
+      margin: 0;
+      margin-right: auto;
+    }
+  }
+  
+  .info__image_points {
+    margin-left: auto;
+    display: block;
+    margin-left: auto;
+    width: 250px;
+    height: 250px;
+    background-image: url('./img/star-desktop.svg');
+    background-repeat: no-repeat;
+  
+    @media (max-width: 991px) {
+      width: 201px;
+      height: 201px;
+    }
+  
+    @media (max-width: 768px) {
+      margin: 0;
+      margin-right: auto;
+    }
+  }
+  
+  .info__image_levels {
+    display: block;
+    margin-left: 0;
+    width: 312px;
+    height: 218px;
+    background-image: url('./img/crane-desktop.svg');
+    background-repeat: no-repeat;
+
+    @media (max-width: 768px) {
+      margin: 0;
+      margin-right: auto;
+      // width: 216px;
+      // height: 151px;
+    }
+  }
+  

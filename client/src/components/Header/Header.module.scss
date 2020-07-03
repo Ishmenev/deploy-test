@@ -1,0 +1,202 @@
+@import '../../variables.scss';
+
+.navbar {
+  background-color: $back;
+  outline: 0;
+  position: relative;
+}
+
+.navbar__brand {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar__logo {
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  line-height: 21px;
+  color: $yellow;
+  font-family: "Neucha", "Arial", sans-serif;
+  text-transform: none;
+}
+
+.navbar_toggler {
+  display: none;
+
+  @media (max-width: 991px) {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    padding: 0;
+    width: 26px;
+    height: 23px;
+    border: none;
+    background: transparent;
+    outline: none;
+
+    &.active {
+      .navbar_toggler_bar {
+        background: none;
+
+        &::before {
+          top: 0;
+          transform: rotate(45deg);
+        }
+
+        &::after {
+          bottom: 0;
+          transform: rotate(-45deg);
+        }
+      }
+
+    }
+  }
+}
+
+.navbar_toggler_bar {
+  display: none;
+
+  @media (max-width: 991px) {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    height: 2px;
+    border-radius: 10px;
+    width: 100%;
+    background: #fff;
+    transform: translateY(-50%);
+
+    &::before,
+    &::after {
+      content: "";
+      position: absolute;
+      display: block;
+      left: 0;
+      width: 100%;
+      height: 2px;
+      border-radius: 10px;
+      background: #fff;
+      transition: 0.5s;
+    }
+
+    &::before {
+      top: -10px;
+      transition-property: top, transform;
+    }
+
+    &::after {
+      bottom: -10px;
+      transition-property: bottom, transform;
+    }
+
+  }
+}
+
+.navbar_nav {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  margin-left: 100px;
+
+  @media (max-width: 991px) {
+    margin: 0;
+    margin-top: 1.5rem;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    border-top: 1px solid #9C9C9C;
+  }
+}
+
+.navbar_nav li {
+  @media (max-width: 991px) {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+.navbar__login {
+  margin-left: auto;
+}
+
+.navbar__option {
+  font-size: 18px;
+  line-height: 24px;
+  color: $yellow;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-weight: 75;
+  text-transform: uppercase;
+
+  &_active {
+    color: $white;
+    position: relative;
+
+    &:hover {
+      color: $white;
+      text-decoration: none;
+    }
+
+    &::after {
+      content: "";
+      position: absolute;
+      display: block;
+      left: 0;
+      bottom: -28px;
+      width: 100%;
+      height: 2px;
+      background-color: $yellow;
+
+      @media (max-width: 991px) {
+        display: none;
+      }
+    }
+  }
+
+  &:hover:not(.navbar__option_active) {
+    color: $yellow-hover;
+    text-decoration: none;
+  }
+
+  &:active:not(.navbar__option_active) {
+    color: $yellow;
+  }
+}
+
+.navbar__private {
+  color: $black;
+  background-color: $white;
+  font-family: $baseFont;
+  ;
+  text-transform: none;
+  font-size: 18px;
+  line-height: 18px;
+  padding: 0;
+  padding-top: 10px;
+  padding-bottom: 11px;
+  padding-right: 16px;
+  padding-left: 50px;
+  position: relative;
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: 13px;
+    top: 13px;
+    display: block;
+    width: 23px;
+    height: 20px;
+    background-image: url("./img/icon-login.svg");
+    background-repeat: no-repeat;
+  }
+
+  &:hover {
+    color: rgba(0, 0, 0, 0.6);
+    text-decoration: none;
+  }
+
+  @media (max-width: 991px) {
+    display: none;
+  }
+}

@@ -1,0 +1,103 @@
+@import "../../../variables.scss";
+
+.filters {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.filters__wrapper {
+  padding-bottom: 60px;
+  display: flex;
+  flex-wrap: wrap;
+
+  @media (max-width: $game-width) {
+    display: none;
+  }
+}
+
+.filters__name {
+  text-align: left;
+  color: $yellow;
+  text-transform: none;
+  font-size: 50px;
+  line-height: 55px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+
+  @media (max-width: $game-width) {
+    display: none;
+  }
+}
+
+.filters__display {
+  text-transform: none;
+  color: $yellow;
+  font-size: 40px;
+  line-height: 45px;
+  display: none;
+
+  @media (max-width: $game-width) {
+    display: block;
+    width: 100%;
+    padding-top: 65px;
+    padding-bottom: 65px;
+    padding-left: 180px;
+    padding-right: 180px;
+  }
+
+  @media (max-width: $desktop-width) {
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 27px;
+  }
+
+  @media (max-width: $tablet-width) {
+    padding-left: 75px;
+    padding-right: 75px;
+  }
+}
+
+.filters__link {
+  background-color: rgba(25, 27, 30, 0.7);
+  font-family: $neucha;
+  font-size: 30px;
+  line-height: 33px;
+  color: $white;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border: 1px solid #FCD97B;
+
+  &:hover {
+    color: $white;
+    text-decoration: none;
+  }
+
+  &:active {
+    background-color: $white;
+    color: $back;
+    opacity: 0.7;
+  }
+
+  @media (max-width: 991px) {
+    padding-top: 8px;
+    padding-bottom: 7px;
+    padding-left: 28px;
+    padding-right: 28px;
+  }
+
+  @media (max-width: $tablet-width) {
+    display: none;
+  }
+}
+
+.filters__link_active {
+  background-color: $white;
+  color: $back;
+
+  &:hover {
+    color: $black;
+  }
+}

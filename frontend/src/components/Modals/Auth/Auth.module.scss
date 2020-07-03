@@ -1,0 +1,153 @@
+@import '../../../variables.scss';
+
+.auth {
+  position: fixed;
+  z-index: 20;
+  top: 150px;
+  width: 100%;
+
+}
+
+.auth__wrapper {
+  position: relative;
+  width: 600px;
+  padding-top: 60px;
+  padding-bottom: 52px;
+  background-color: $white;
+  margin: 0 auto;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.auth__name {
+  text-align: center;
+  font-size: 50px;
+  line-height: 55px;
+  text-transform: none;
+  color: $grey;
+  padding-bottom: 25px;
+}
+
+.auth__announce {
+  text-transform: none;
+  margin: 0 auto;
+  width: 270px;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 300;
+  color: $grey;
+  padding-bottom: 40px;
+}
+
+.auth__socials {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.auth__option {
+  position: relative;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  max-width: 180px;
+  box-shadow: 0px 4px 4px rgba(221, 255, 200, 0.15)
+}
+
+.auth__option_vc {
+  background-color: $vc;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 11px;
+    left: 16px;
+    width: 20px;
+    height: 20px;
+    background-image: url('./img/vk.svg');
+    background-repeat: no-repeat;
+  }
+}
+
+.auth__option_ok {
+  background-color: $ok;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 11px;
+    left: 16px;
+    width: 20px;
+    height: 20px;
+    background-image: url('./img/ok.svg');
+    background-repeat: no-repeat;
+  }
+}
+
+.auth__option_fb {
+  background-color: $fb;
+  &::before {
+    content: "";
+    position: absolute;
+    top: 11px;
+    left: 16px;
+    width: 20px;
+    height: 20px;
+    background-image: url('./img/fb.svg');
+    background-repeat: no-repeat;
+  }
+}
+
+.auth__link {
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 9px;
+  text-transform: none;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 21px;
+  color: $white;
+
+  &:hover {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.7);
+  }
+}
+
+.auth__link {
+  padding-left: 38px;
+}
+
+
+.auth__close {
+  position: absolute;
+  border: none;
+	top: 9px;
+	right: 9px;
+	width: 21px;
+	height: 21px;
+	font-size: 0px;
+	cursor: pointer;
+  background-color: transparent;
+  
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    width: 24px;
+    height: 2px;
+    background-color: $grey;  
+  }
+
+  &::before {
+    transform: rotate(45deg);
+    right: -2px;
+    top: 8px;  
+  }
+
+  &::after {
+    transform: rotate(-45deg);
+    right: -2px;
+    top: 8px;  
+  }
+}
+

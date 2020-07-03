@@ -1,0 +1,36 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background-image: url("./img/back-mini.png");
+  background-repeat: repeat;
+  background-position: center top;
+  min-width: 320px;
+  margin: 0;
+  font-family: "Segoe UI", "Gill Sans", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  display: flex;
+  flex-direction: column;
+}
+
+#root {
+  min-height: 100%;
+  flex: 1;
+}
+
+.wrapper {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.sections {
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  align-items: stretch;
+  min-height: 100%;
+  flex-grow: 1;
+} 

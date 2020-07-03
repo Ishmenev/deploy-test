@@ -1,0 +1,6210 @@
+{
+  "properties": [
+      {
+          "_id": "5e0a1fac1c9d4400007e2575",
+          "properties": [
+              {
+                  "id": "0",
+                  "title": "Обновление от 23.04.19",
+                  "text": "Мы добавили редактор уровней, удачной игры!",
+                  "date": "23/04/2020"
+              },
+              {
+                  "id": "1",
+                  "title": "Новый разработчик",
+                  "text": "К нашей команде присоединился новый разработчик Алексей Карасев, теперь работа пойдет еще быстрее!",
+                  "date": "15/03/2020"
+              },
+              {
+                  "id": "2",
+                  "title": "С 8 марта!",
+                  "text": "Поздравляем с этим прекрасным праздником! ",
+                  "date": "09/03/2020"
+              },
+              {
+                  "id": "3",
+                  "title": "Happy New Year!",
+                  "text": "Всего наилучшего в новом году!",
+                  "date": "31/12/2019"
+              }
+          ],
+          "levels": []
+      }
+  ],
+  "levels": [
+      {
+          "level": [
+              {
+                  "x": 1,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 1,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 8,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 2,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 8,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 3,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 8,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 4,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 8,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 5,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 8,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 6,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 8,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              }
+          ],
+          "_id": "5eb4766af8fe182ee02f5cd0",
+          "id": "1588885098666",
+          "title": "dsad",
+          "width": "10",
+          "height": "10",
+          "description": "sadsad",
+          "image": "https://www.holland.com/upload_mm/6/2/2/68946_fullimage_kasteel-de-haar-1360.jpg",
+          "type": "creative",
+          "player": {
+              "positionX": 3,
+              "positionY": 2
+          },
+          "__v": 0
+      },
+      {
+          "level": [
+              {
+                  "x": 1,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 4,
+                  "type": "door",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 4,
+                  "type": null,
+                  "object": "keys",
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 6,
+                  "type": "exit",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              }
+          ],
+          "_id": "5eb476bdf8fe182ee02f5cd1",
+          "id": "1588885181789",
+          "title": "dasssssss sadsad",
+          "width": "14",
+          "height": "10",
+          "description": "dsadasd",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bodiam-castle-10My8-1197.jpg/300px-Bodiam-castle-10My8-1197.jpg",
+          "type": "narrative",
+          "player": {
+              "positionX": 6,
+              "positionY": 4
+          },
+          "__v": 0
+      },
+      {
+          "level": [
+              {
+                  "x": 1,
+                  "y": 1,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 2,
+                  "y": 1,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 3,
+                  "y": 1,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 4,
+                  "y": 1,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 5,
+                  "y": 1,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 6,
+                  "y": 1,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 7,
+                  "y": 1,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 8,
+                  "y": 1,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 9,
+                  "y": 1,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 15,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 2,
+                  "type": "door",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 6,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 2,
+                  "type": null,
+                  "object": "keys",
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 2,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 15,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 3,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 6,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 3,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 15,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 4,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 2,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 4,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 6,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 4,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 15,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 5,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 2,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 5,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 6,
+                  "y": 5,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 7,
+                  "y": 5,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 8,
+                  "y": 5,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 9,
+                  "y": 5,
+                  "type": "wall",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 15,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 6,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 2,
+                  "y": 6,
+                  "type": "sand",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 15,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 7,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 2,
+                  "y": 7,
+                  "type": "sand",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 15,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 15,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 15,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 15,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 11,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 11,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 11,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 11,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 11,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 11,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 11,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 11,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 11,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 11,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 11,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 11,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 11,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 11,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 15,
+                  "y": 11,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 12,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 12,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 12,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 12,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 12,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 12,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 12,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 12,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 12,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 12,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 12,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 12,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 12,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 12,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 15,
+                  "y": 12,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 13,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 13,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 13,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 13,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 13,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 13,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 13,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 13,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 13,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 13,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 13,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 13,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 13,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 13,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 15,
+                  "y": 13,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 14,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 14,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 14,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 14,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 14,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 14,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 14,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 14,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 14,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 14,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 14,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 14,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 14,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 14,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 15,
+                  "y": 14,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 15,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 15,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 15,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 15,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 15,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 15,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 15,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 15,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 15,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 15,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 11,
+                  "y": 15,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 12,
+                  "y": 15,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 13,
+                  "y": 15,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 14,
+                  "y": 15,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 15,
+                  "y": 15,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              }
+          ],
+          "_id": "5eb47bc8673ee24ccc485236",
+          "id": "1588886472004",
+          "title": "sadsadsa",
+          "width": "15",
+          "height": "15",
+          "description": "sadsadsad",
+          "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/panoramic-view-of-the-castle-neuschwanstein-from-the-bridge-news-photo-1575309368.jpg",
+          "type": "creative",
+          "player": {
+              "positionX": 8,
+              "positionY": 4
+          },
+          "__v": 0
+      },
+      {
+          "level": [
+              {
+                  "x": 1,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 3,
+                  "type": "tree",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 2,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 4,
+                  "type": "tree",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 2,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 4,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 5,
+                  "type": "tree",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 2,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 5,
+                  "type": null,
+                  "object": "keys",
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 5,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 5,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 6,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 6,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 6,
+                  "type": "box",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 6,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 7,
+                  "type": "box",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 7,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 9,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 8,
+                  "y": 9,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 9,
+                  "y": 9,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 9,
+                  "type": "door",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 1,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 10,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 8,
+                  "y": 10,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 9,
+                  "y": 10,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 10,
+                  "type": "exit",
+                  "object": null,
+                  "passable": true
+              }
+          ],
+          "_id": "5eb9c9257253d611a373a5b3",
+          "id": "1589233957864",
+          "title": "",
+          "width": "10",
+          "height": "10",
+          "description": "",
+          "image": "",
+          "type": "creative",
+          "player": {
+              "positionX": 1,
+              "positionY": 1
+          },
+          "__v": 0
+      },
+      {
+          "level": [
+              {
+                  "x": 1,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 3,
+                  "type": "tree",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 2,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 4,
+                  "type": "tree",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 2,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 4,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 5,
+                  "type": "tree",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 2,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 5,
+                  "type": null,
+                  "object": "keys",
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 5,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 5,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 6,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 6,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 6,
+                  "type": "box",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 6,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 7,
+                  "type": "box",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 7,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 9,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 8,
+                  "y": 9,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 9,
+                  "y": 9,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 9,
+                  "type": "door",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 1,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 10,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 8,
+                  "y": 10,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 9,
+                  "y": 10,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 10,
+                  "type": "exit",
+                  "object": null,
+                  "passable": true
+              }
+          ],
+          "_id": "5eb9c92b7253d611a373a5b4",
+          "id": "1589233963708",
+          "title": "",
+          "width": "10",
+          "height": "10",
+          "description": "",
+          "image": "",
+          "type": "creative",
+          "player": {
+              "positionX": 1,
+              "positionY": 1
+          },
+          "__v": 0
+      },
+      {
+          "level": [
+              {
+                  "x": 1,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 3,
+                  "type": "tree",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 2,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 4,
+                  "type": "tree",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 2,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 4,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 5,
+                  "type": "tree",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 2,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 5,
+                  "type": null,
+                  "object": "keys",
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 5,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 5,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 6,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 6,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 6,
+                  "type": "box",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 6,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 7,
+                  "type": "box",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 7,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 9,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 8,
+                  "y": 9,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 9,
+                  "y": 9,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 9,
+                  "type": "door",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 1,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 10,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 8,
+                  "y": 10,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 9,
+                  "y": 10,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 10,
+                  "type": "exit",
+                  "object": null,
+                  "passable": true
+              }
+          ],
+          "_id": "5eb9c9377253d611a373a5b5",
+          "id": "1589233975756",
+          "title": "",
+          "width": "10",
+          "height": "10",
+          "description": "",
+          "image": "",
+          "type": "creative",
+          "player": {
+              "positionX": 1,
+              "positionY": 1
+          },
+          "__v": 0
+      },
+      {
+          "level": [
+              {
+                  "x": 1,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 1,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 2,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 3,
+                  "type": "tree",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 2,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 3,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 4,
+                  "type": "tree",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 2,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 4,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 4,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 5,
+                  "type": "tree",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 2,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 5,
+                  "type": null,
+                  "object": "keys",
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 5,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 5,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 5,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 6,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 6,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 6,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 6,
+                  "type": "box",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 6,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 7,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 7,
+                  "type": "box",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 7,
+                  "type": "flower",
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 8,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 9,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 10,
+                  "y": 8,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 1,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 9,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 9,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 8,
+                  "y": 9,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 9,
+                  "y": 9,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 9,
+                  "type": "door",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 1,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 2,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 3,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 4,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 5,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 6,
+                  "y": 10,
+                  "type": null,
+                  "object": null,
+                  "passable": true
+              },
+              {
+                  "x": 7,
+                  "y": 10,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 8,
+                  "y": 10,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 9,
+                  "y": 10,
+                  "type": "river",
+                  "object": null,
+                  "passable": false
+              },
+              {
+                  "x": 10,
+                  "y": 10,
+                  "type": "exit",
+                  "object": null,
+                  "passable": true
+              }
+          ],
+          "_id": "5eb9c9457253d611a373a5b6",
+          "id": "1589233989261",
+          "title": "",
+          "width": "10",
+          "height": "10",
+          "description": "",
+          "image": "",
+          "type": "creative",
+          "player": {
+              "positionX": 1,
+              "positionY": 1
+          },
+          "__v": 0
+      }
+  ]
+}

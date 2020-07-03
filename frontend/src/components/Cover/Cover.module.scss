@@ -1,0 +1,44 @@
+@import '../../variables.scss';
+
+.cover {
+  padding-bottom: 90px;
+
+  @media (max-width: $tablet-width) {
+    display: none;
+  }
+}
+
+.cover__name {
+  text-align: left;
+  font-size: 50px;
+  line-height: 55px;
+  text-transform: none;
+  color: $yellow;
+  padding-bottom: 25px;
+}
+
+.cover__description {
+  color: $white;
+  font-size: 20px;
+  line-height: 27px;
+  padding-bottom: 30px;
+  margin-bottom: 0;
+}
+
+.cover__measure {
+  font-weight: 700;
+}
+
+.cover__start {
+  text-align: left;
+  font-size: 50px;
+  line-height: 55px;
+  text-transform: none;
+  color: $yellow;
+  padding-bottom: 25px;
+  padding-top: 100px;
+}
+
+.cover__input {
+  width: 730px;
+}

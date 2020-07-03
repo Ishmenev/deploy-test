@@ -1,0 +1,44 @@
+@import "../../variables.scss";
+
+.error {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  position: relative;
+  padding-top: 100px;
+  text-align: center;
+}
+  
+.error__title {
+  display: flex;
+}
+  
+.error__name {
+  font-size: 30px;
+  line-height: 33px;
+  margin: auto;
+  text-transform: none;
+  color: $white;
+}
+
+.error__button {
+  display: inline-block;
+  color: $brown;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding-top: 14px;
+  padding-bottom: 12px;
+  padding-left: 70px;
+  padding-right: 70px;
+  margin-top: 70px;
+  background-color: $green;
+  border: none;
+  position: relative;
+
+  &:hover {
+    color: rgba(52, 53, 51, 0.8);
+  }
+
+}
+
+

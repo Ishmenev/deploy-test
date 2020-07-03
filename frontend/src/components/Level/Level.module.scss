@@ -1,0 +1,53 @@
+@import '../../variables.scss';
+
+.item {
+  margin: 0;
+  padding: 0;
+}
+
+.item__image {
+  position: relative;
+  padding-bottom: 178px;
+  height: 0;
+  overflow: hidden;
+}
+
+.image {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.wrapper {
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+  padding-bottom: 22px;
+}
+
+.title {
+  color: rgb(0, 0, 0);
+  text-transform: none;
+  font-size: 20px;
+  line-height: 18px;
+  padding-bottom: 10px;
+}
+
+.number {
+  color: #87837B;
+  font-size: 12px;
+  line-height: 18px;
+  padding-bottom: 5px;
+}
+
+.description {
+  color: #444444;
+  padding: 0;
+  padding-bottom: 15px;
+
+}

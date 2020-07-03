@@ -1,0 +1,168 @@
+@import "../../variables.scss";
+
+.intro {
+  width: 100%;
+  background-size: cover;
+  background-image: url("./img/head-desk.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  box-shadow: 0px 4px 34px rgba(0, 0, 0, 0.7);
+}
+
+.intro__title {
+  margin: 0;
+  padding-bottom: 50px;
+
+  @media (max-width: $tablet-width) {
+    padding-bottom: 50px;
+  }
+
+  @media (max-width: $mobile-width) {
+    padding-top: 48px;
+    padding-bottom: 47px;
+  }
+}
+
+.intro__name {
+  margin: 0;
+  text-transform: none;
+  font-size: 60px;
+  line-height: 69px;
+  color: $yellow;
+  padding-top: 80px;
+
+  @media (max-width: 991px) {
+    font-size: 60px;
+    line-height: 72px;
+  }
+
+  @media (max-width: $tablet-width) {
+    font-size: 40px;
+    line-height: 46px;
+  }
+}
+
+.intro__name_main {
+  margin: 0;
+  font-size: 80px;
+  text-transform: none;
+  line-height: 92px;
+  color: $yellow;
+  padding-top: 111px;
+
+
+  @media (max-width: 991px) {
+    font-size: 60px;
+    line-height: 72px;
+    padding-top: 90px;
+  }
+
+  @media (max-width: $tablet-width) {
+    font-size: 40px;
+    line-height: 46px;
+    padding-top: 50px;
+  }
+}
+
+.intro__choice {
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+
+  @media (max-width: 1200px) {
+    text-align: center;
+    padding-left: 70px;
+    padding-right: 70px;
+  }
+
+  @media (max-width: 991px) {
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  @media (max-width: $tablet-width) {
+    display: none;
+  }
+}
+
+.intro__text {
+  color: $white;
+  font-size: 24px;
+  line-height: 32px;
+  padding-bottom: 25px;
+
+  @media (max-width: 991px) {
+    color: $white;
+    font-size: 22px;
+    line-height: 30px;
+  }
+}
+
+.intro__link {
+  display: inline-block;
+  color: $brown;
+  font-weight: 400;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding-top: 14px;
+  padding-bottom: 12px;
+  padding-left: 93px;
+  padding-right: 63px;
+  background-color: $green;
+  border: none;
+  position: relative;
+
+  &:hover {
+    text-decoration: none;
+    color: rgba(52, 53, 51, 0.8);
+  }
+}
+
+.intro__link_play::before {
+  content: '';
+  display: block;
+  width: 32px;
+  height: 19px;
+  position: absolute;
+  left: 35px;
+  top: 15px;
+  background-image: url('./img/joystic-icon.svg');
+  background-repeat: no-repeat;
+}
+
+.intro__link_create::before {
+  content: '';
+  display: block;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 40px;
+  top: 10px;
+  background-image: url('./img/plus-icon.svg');
+  background-repeat: no-repeat;
+}
+
+
+.intro__compass {
+  display: inline-block;
+  width: 149px;
+  height: 113px;
+  text-align: center;
+  background-image: url('./img/intro-decor.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  margin: 10px;
+
+  @media (max-width: $desktop-width) {
+    width: 129px;
+    height: 93px;
+    background-size: contain;
+  }
+
+  @media (max-width: $tablet-width) {
+    display: none;
+  }
+}

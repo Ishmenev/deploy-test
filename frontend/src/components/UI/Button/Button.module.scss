@@ -1,0 +1,31 @@
+@import "../../../variables.scss";
+
+.button {
+    display: inline-block;
+    color: $brown;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-top: 14px;
+    padding-bottom: 12px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: $green;
+    border: none;
+  
+    &:hover {
+      text-decoration: none;
+      color: rgba(52, 53, 51, 0.8);
+    }
+}
+
+.button_simple {
+  background-color: $gold;
+  padding-left: 55px;
+  padding-right: 55px;
+
+  &:hover {
+    cursor: pointer;
+    text-decoration: none;
+    color: rgb(243, 240, 240);
+  }
+}

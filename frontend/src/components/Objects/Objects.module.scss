@@ -1,0 +1,47 @@
+@import '../../variables.scss';
+
+.objects {
+  padding-bottom: 90px;
+
+  @media (max-width: $tablet-width) {
+    display: none;
+  }
+}
+
+.objects__name {
+  text-align: left;
+  font-size: 50px;
+  line-height: 55px;
+  text-transform: none;
+  color: $yellow;
+  padding-top: 90px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.objects__option {
+  color: $white;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 700;
+  padding-bottom: 30px;
+}
+
+.objects__element {
+  font-weight: 300;
+  color: $green;
+}
+
+.objects__view {
+  margin: 0;
+  width: 100%;
+  min-height: 635px;
+  background-image: url('./img/full-object.png');
+  background-size: 100% 635px;
+  background-repeat: no-repeat;
+  margin-bottom: 60px;
+}
+
+.objects__save {
+
+}

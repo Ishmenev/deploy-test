@@ -1,0 +1,47 @@
+@import '../../variables.scss';
+
+.indicators {
+  padding-top: 30px;
+}
+
+.indicators__name {
+  text-align: left;
+  color: $yellow;
+  text-transform: none;
+  font-size: 50px;
+  line-height: 55px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+
+  @media (max-width: $tablet-width) {
+    display: none;
+  }
+}
+
+.indicators__display {
+  text-transform: none;
+  color: $yellow;
+  font-size: 40px;
+  line-height: 45px;
+  display: none;
+
+  @media (max-width: $tablet-width) {
+    display: block;
+  }
+}
+
+.indicators__description {
+  color: $white;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 700;
+
+  @media (max-width: $tablet-width) {
+    display: none;
+  }
+}
+
+.indicators__measure {
+  font-weight: 300;
+}
+

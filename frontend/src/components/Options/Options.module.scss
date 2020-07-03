@@ -1,0 +1,24 @@
+@import "../../variables.scss";
+
+.options {
+  margin: 0;
+  padding-bottom: 90px;
+
+  @media (max-width: $tablet-width) {
+    display: none;
+  }
+}
+
+.options__list {
+  padding: 0;
+  margin: 0;
+}
+
+.options__item {
+  margin-bottom: 40px;
+}
+
+.options__button {
+  text-align: center;
+  margin-top: 30px;
+}

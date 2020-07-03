@@ -27,14 +27,12 @@ app.use("/api/user", user);
 app.use("/api/level", level);
 
 
-// Статические ассеты в продакшене
-if (process.env.NODE_ENV === "production") {
-  // Устанавливаем статическую папку
-  app.use(express.static(path.join(__dirname, 'frontend/build')))
-  app.get("*", (req, res) => {
-    res.sendFile(path.resolve(__dirname,  "frontend", "build", "index.html"));
-  });
-}
+
+app.use(express.static(path.join(__dirname, 'frontend/build')))
+app.get("*", (req, res) => {
+  res.sendFile(path.resolve(__dirname,  "frontend", "build", "index.html"));
+});
+
 
 // Запускаем приложение
 app.listen(port, () => {

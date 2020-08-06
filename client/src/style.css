@@ -15,6 +15,10 @@ body {
   flex-direction: column;
 }
 
+input, button, label {
+  outline: 0 !important;
+}
+
 #root {
   min-height: 100%;
   flex: 1;
